@@ -8,6 +8,6 @@ See samples for usage.
 
 ## Samples
 
-![Sample][https://github.com/JulianKnodt/Turtle/blob/master/samples/fractal.png]
+![Sample](https://github.com/JulianKnodt/Turtle/blob/master/samples/fractal.png)
 
-![Fractal][https://github.com/JulianKnodt/Turtle/blob/master/samples/leafs.png}
+![Fractal](https://github.com/JulianKnodt/Turtle/blob/master/samples/leafs.png)
